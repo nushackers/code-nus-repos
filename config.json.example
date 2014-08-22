@@ -1,0 +1,7 @@
+{
+    "github_auth": {
+        "type": "oauth",
+        "key": "github api key",
+        "secret": "github api secret"
+    }
+}

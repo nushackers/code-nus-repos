@@ -1,0 +1,9 @@
+{
+  "name": "code-nus-repos",
+  "version": "0.0.0",
+  "dependencies": {
+    "github": "~0.2",
+    "underscore": "~1.6",
+    "q": "~1.0"
+  }
+}
