@@ -23,5 +23,9 @@
     },
     {
         "github_url": "https://github.com/cgcai/SVY21"
+    },
+    {
+        "github_url": "https://github.com/ymichael/modivle",
+        "release_url": "http://modivle.ymichael.com"
     }
 ]
