@@ -6,7 +6,7 @@ NUS.
 # Adding your project
 
 [Fork this repository](https://guides.github.com/activities/forking/), add in
-your project(s) to repo.json and [send us a pull
+your project(s) to `repo.json` and [send us a pull
 request](https://help.github.com/articles/creating-a-pull-request)!
 
 Each project you added should be a json object with at least one parameter -
