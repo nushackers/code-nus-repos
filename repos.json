@@ -27,5 +27,9 @@
     {
         "github_url": "https://github.com/ymichael/modivle",
         "release_url": "http://modivle.ymichael.com"
+    },
+    {
+        "github_url": "https://github.com/burnflare/Termilizer",
+        "release_url": "http://vishnuprem.com/Termilizer/"
     }
 ]
