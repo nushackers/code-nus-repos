@@ -31,5 +31,15 @@
     {
         "github_url": "https://github.com/burnflare/Termilizer",
         "release_url": "http://vishnuprem.com/Termilizer/"
+    },
+    {
+        "github_url": "https://github.com/jcheng31/isitonspotify",
+        "release_url": "https://jcheng31.github.io/isitonspotify/"
+    },
+    {
+        "github_url": "https://github.com/jcheng31/ForecastPCL"
+    },
+    {
+        "github_url": "https://github.com/jcheng31/WundergroundAutocomplete.NET"
     }
 ]
