@@ -41,5 +41,9 @@
     },
     {
         "github_url": "https://github.com/jcheng31/WundergroundAutocomplete.NET"
+    },
+    {
+        "github_url": "https://github.com/nushackers/code-nus",
+        "release_url": "http://code.nushackers.org"
     }
 ]
