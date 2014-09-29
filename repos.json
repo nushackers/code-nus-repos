@@ -56,5 +56,8 @@
     {
         "github_url": "https://github.com/nushackers/code-nus",
         "release_url": "http://code.nushackers.org"
+    },
+    {
+        "github_url": "https://github.com/nushackers/code-nus-repos"
     }
 ]
