@@ -40,6 +40,13 @@
         "release_url": "http://modivle.ymichael.com"
     },
     {
+        "github_url": "https://github.com/ymichael/cprofilev"
+    },
+    {
+        "github_url": "https://github.com/ymichael/projectintern",
+        "release_url": "http://ymichael.github.io/projectintern/"
+    },
+    {
         "github_url": "https://github.com/burnflare/Termilizer",
         "release_url": "http://vishnuprem.com/Termilizer/"
     },
