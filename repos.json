@@ -1,83 +1,107 @@
 [   
     {
-        "github_url": "https://github.com/yeokm1/docs-to-pdf-converter"
+        "github_url": "https://github.com/yeokm1/docs-to-pdf-converter",
+        "tags": ["documents"]
     },
     {
         "github_url": "https://github.com/yeokm1/nus-soc-print",
-        "release_url": "https://play.google.com/store/apps/details?id=com.yeokm1.nussocprintandroid"
+        "release_url": "https://play.google.com/store/apps/details?id=com.yeokm1.nussocprintandroid",
+        "tags": ["nus"]
     },
     {
         "github_url": "https://github.com/yeokm1/nus-soc-print-ios",
-        "release_url": "https://itunes.apple.com/sg/app/id916524327"
+        "release_url": "https://itunes.apple.com/sg/app/id916524327",
+        "tags": ["nus"]
     },
     {
-        "github_url": "https://github.com/yyjhao/markmon"
+        "github_url": "https://github.com/yyjhao/markmon",
+        "tags": ["documents"]
     },
     {
-        "github_url": "https://github.com/yyjhao/IVLEDownloader"
+        "github_url": "https://github.com/yyjhao/IVLEDownloader",
+        "tags": ["ivle"]
     },
     {
-        "github_url": "https://github.com/yyjhao/sublime-text-markmon"
+        "github_url": "https://github.com/yyjhao/sublime-text-markmon",
+        "tags": ["documents", "sublime-text"]
     },
     {
         "github_url": "https://github.com/yyjhao/HTML5-Gomoku",
-        "release_url": "http://gomoku.yjyao.com"
+        "release_url": "http://gomoku.yjyao.com",
+        "tags": ["game", "artificial-intelligence"]
     },
     {
-        "github_url": "https://github.com/yyjhao/html5-hearts"
+        "github_url": "https://github.com/yyjhao/html5-hearts",
+        "tags": ["game", "artificial-intelligence"]
     },
     {
-        "github_url": "https://github.com/nushackers/nushackers-site"
+        "github_url": "https://github.com/nushackers/nushackers-site",
+        "tags": ["website"]
     },
     {
-        "github_url": "https://github.com/nusmodifications/nusmods"
+        "github_url": "https://github.com/nusmodifications/nusmods",
+        "tags": ["website", "nus"]
     },
     {
-        "github_url": "https://github.com/cgcai/SVY21"
+        "github_url": "https://github.com/cgcai/SVY21",
+        "tags": ["academic"]
     },
     {
         "github_url": "https://github.com/ymichael/modivle",
-        "release_url": "http://modivle.ymichael.com"
+        "release_url": "http://modivle.ymichael.com",
+        "tags": ["website", "ivle"]
     },
     {
-        "github_url": "https://github.com/ymichael/cprofilev"
+        "github_url": "https://github.com/ymichael/cprofilev",
+        "tags": ["coding"]
     },
     {
         "github_url": "https://github.com/ymichael/projectintern",
-        "release_url": "http://ymichael.github.io/projectintern/"
+        "release_url": "http://ymichael.github.io/projectintern/",
+        "tags": ["website"]
     },
     {
         "github_url": "https://github.com/burnflare/Termilizer",
-        "release_url": "http://vishnuprem.com/Termilizer/"
+        "release_url": "http://vishnuprem.com/Termilizer/",
+        "tags": ["website"]
     },
     {
         "github_url": "https://github.com/jcheng31/isitonspotify",
-        "release_url": "https://jcheng31.github.io/isitonspotify/"
+        "release_url": "https://jcheng31.github.io/isitonspotify/",
+        "tags": ["website"]
     },
     {
-        "github_url": "https://github.com/jcheng31/ForecastPCL"
+        "github_url": "https://github.com/jcheng31/ForecastPCL",
+        "tags": ["weather"]
     },
     {
-        "github_url": "https://github.com/jcheng31/WundergroundAutocomplete.NET"
+        "github_url": "https://github.com/jcheng31/WundergroundAutocomplete.NET",
+        "tags": ["weather"]
     },
     {
         "github_url": "https://github.com/nushackers/code-nus",
-        "release_url": "http://code.nushackers.org"
+        "release_url": "http://code.nushackers.org",
+        "tags": ["website"]
     },
     {
-        "github_url": "https://github.com/nushackers/code-nus-repos"
+        "github_url": "https://github.com/nushackers/code-nus-repos",
+        "tags": ["website"]
     },
     {
-        "github_url": "https://github.com/nusmodifications/nus-soc-scripts"
+        "github_url": "https://github.com/nusmodifications/nus-soc-scripts",
+        "tags": ["nus", "script"]
     },
     {
-        "github_url": "https://github.com/Ohohcakester/NDProofs"
+        "github_url": "https://github.com/Ohohcakester/NDProofs",
+        "tags": ["academic"]
     },
     {
-        "github_url": "https://github.com/shubhamgoyal/Search-Tree-Visualization"
+        "github_url": "https://github.com/shubhamgoyal/Search-Tree-Visualization",
+        "tags": ["academic"]
     },
     {
-        "github_url": "https://github.com/shubhamgoyal/Motion-Planning"
+        "github_url": "https://github.com/shubhamgoyal/Motion-Planning",
+        "tags": ["academic", "artificial-intelligence"]
     }
 
 ]

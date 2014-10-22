@@ -85,6 +85,8 @@ function getLastCommitDate(githubRepo, repoInfo) {
     return d.promise;
 }
 
+var tag_stats = {};
+
 Q.all(repos.map(function(repo) {
     var d = Q.defer();
 
@@ -99,12 +101,24 @@ Q.all(repos.map(function(repo) {
         owner: components[1],
         repo: components[2]
     };
+    var tags = {};
+    repo.tags.forEach(function(t) {
+        tags[t] = 1;
+        if (tag_stats[t]) {
+            tag_stats[t]++;
+        } else {
+            tag_stats[t] = 1;
+        }
+    });
+
     Q.spread([
         getMeta(githubRepo, repo),
         getRelease(githubRepo, repo),
         getLastCommitDate(githubRepo, repo)
     ], function(meta, release, lastCommitDate) {
-        d.resolve(_.extend(_.extend(meta, release), lastCommitDate));
+        var result = _.extend(_.extend(meta, release), lastCommitDate);
+        result.tags = tags;
+        d.resolve(result);
     });
 
     return d.promise;
@@ -112,23 +126,12 @@ Q.all(repos.map(function(repo) {
     var projects = [];
     [].push.apply(projects, result);
 
-    result.sort(function(a, b) {
-        return new Date(b.last_commit_date) - new Date(a.last_commit_date);
-    });
-    var recent_projects = result.slice(0, 5);
-
-    result.sort(function(a, b) {
-        return b.stars - a.stars;
-    });
-    var popular_projects = result.slice(0, 5);
     fs.writeFileSync("./data_ori.json", JSON.stringify({
         projects: projects,
-        popular_projects: popular_projects,
-        recent_projects: recent_projects
+        tag_stats: tag_stats
     }, null, '    '));
     fs.writeFileSync("./data.json", JSON.stringify({
         projects: projects,
-        popular_projects: popular_projects,
-        recent_projects: recent_projects
+        tag_stats: tag_stats
     }));
 });
