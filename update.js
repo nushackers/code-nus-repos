@@ -118,6 +118,9 @@ Q.all(repos.map(function(repo) {
     ], function(meta, release, lastCommitDate) {
         var result = _.extend(_.extend(meta, release), lastCommitDate);
         result.tags = tags;
+        if (repo.image) {
+            result.image = repo.image;
+        }
         d.resolve(result);
     });
 
