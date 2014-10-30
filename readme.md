@@ -10,8 +10,10 @@ your project(s) to `repo.json` and [send us a pull
 request](https://help.github.com/articles/creating-a-pull-request)!
 
 Each project you added should be a json object with at least one parameter -
-`github_url`. You can also add an optional paramter `release_url`, which can
-either be the link to the website you are hosting the project, a post where you
-describes about your project, or a link to download your project release. 
+`github_url`. There are a few optional paramters, listed below:
+
+1. `release_url`: the link to the website you are hosting the project, a post where you describes about your project, or a link to download your project release. 
+2. `image`: a small image to showcase your project
+3. `tags`: an array of tags for your project. All tags are lower case, without spaces (replace spaces with dashes if you have multiple words, .e.g. `"sublime-text"`).
 
 Please check that the syntax is correct before sending the pull request.
