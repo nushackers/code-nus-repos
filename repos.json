@@ -103,6 +103,9 @@
     {
         "github_url": "https://github.com/shubhamgoyal/Motion-Planning",
         "tags": ["academic", "artificial-intelligence"]
+    },
+    {
+        "github_url": "https://github.com/infinitus/nusmods-gem",
+        "tags": ["nus"]
     }
-
 ]
