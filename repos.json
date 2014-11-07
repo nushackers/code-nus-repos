@@ -111,6 +111,6 @@
     },
     {
         "github_url": "https://github.com/yjwong/nodejs-portable-runtime",
-        "tags" ["script", "nodejs"]
+        "tags": ["script", "nodejs"]
     }
 ]
