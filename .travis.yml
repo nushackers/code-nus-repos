@@ -3,5 +3,4 @@ node_js:
   - "0.10"
 notifications:
   email: false
-notifications:
   slack: nushackers:uqLDjfXrJ7sBxltLueAwhYyF
