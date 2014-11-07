@@ -108,5 +108,9 @@
     {
         "github_url": "https://github.com/infinitus/nusmods-gem",
         "tags": ["nus"]
+    },
+    {
+        "github_url": "https://github.com/yjwong/nodejs-portable-runtime",
+        "tags" ["script", "nodejs"]
     }
 ]
