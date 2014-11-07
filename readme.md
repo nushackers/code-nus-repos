@@ -16,4 +16,12 @@ Each project you added should be a json object with at least one parameter -
 2. `image`: a small image to showcase your project
 3. `tags`: an array of tags for your project. All tags are lower case, without spaces (replace spaces with dashes if you have multiple words, .e.g. `"sublime-text"`).
 
+After adding your project, please run
+
+```
+npm test
+```
+
+to make sure that your modification is valid before sending out the pull request.
+
 Please check that the syntax is correct before sending the pull request.
