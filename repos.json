@@ -19,7 +19,7 @@
     },
     {
         "github_url": "https://github.com/yyjhao/IVLEDownloader",
-        "tags": ["ivle"]
+        "tags": ["ivle", "nus"]
     },
     {
         "github_url": "https://github.com/yyjhao/sublime-text-markmon",
@@ -50,7 +50,7 @@
     {
         "github_url": "https://github.com/ymichael/modivle",
         "release_url": "http://modivle.ymichael.com",
-        "tags": ["website", "ivle"]
+        "tags": ["website", "ivle", "nus"]
     },
     {
         "github_url": "https://github.com/ymichael/cprofilev",
