@@ -112,5 +112,10 @@
     {
         "github_url": "https://github.com/yjwong/nodejs-portable-runtime",
         "tags": ["script", "nodejs"]
+    },
+    {
+        "github_url": "https://github.com/infinitus/soundcloud-instant",
+        "release_url": "http://soundcloud.crypt.sg",
+        "tags": ["website"]
     }
 ]
