@@ -119,5 +119,9 @@
         "github_url": "https://github.com/infinitus/soundcloud-instant",
         "release_url": "http://soundcloud.crypt.sg",
         "tags": ["website"]
+    },
+    {
+        "github_url": "https://github.com/ymichael/soc-hyp-boilerplate",
+        "tags": ["academic", "nus"]
     }
 ]
