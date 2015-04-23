@@ -1,4 +1,9 @@
-[   
+[
+    {
+        "github_url": "https://github.com/Ohohcakester/Tree-Balance-Game",
+        "image": "https://raw.githubusercontent.com/Ohohcakester/Tree-Balance-Game/screenshot/screenshot/endless1.png",
+        "tags": ["game", "academic"]
+    },
     {
         "github_url": "https://github.com/yeokm1/docs-to-pdf-converter",
         "tags": ["documents"]
