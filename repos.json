@@ -97,7 +97,7 @@
         "tags": ["website"]
     },
     {
-        "github_url": "https://github.com/nusmodifications/nus-soc-scripts",
+        "github_url": "https://github.com/nusmodifications/nus-scripts",
         "tags": ["nus", "script"]
     },
     {
@@ -113,7 +113,7 @@
         "tags": ["academic", "artificial-intelligence"]
     },
     {
-        "github_url": "https://github.com/infinitus/nusmods-gem",
+        "github_url": "https://github.com/jin/nusmods-gem",
         "tags": ["nus"]
     },
     {
@@ -121,7 +121,7 @@
         "tags": ["script", "nodejs"]
     },
     {
-        "github_url": "https://github.com/infinitus/soundcloud-instant",
+        "github_url": "https://github.com/jin/soundcloud-instant",
         "release_url": "http://soundcloud.crypt.sg",
         "tags": ["website"]
     },
