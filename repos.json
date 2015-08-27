@@ -128,5 +128,10 @@
     {
         "github_url": "https://github.com/ymichael/soc-hyp-boilerplate",
         "tags": ["academic", "nus"]
+    },
+    {
+        "github_url": "https://github.com/nusmodifications/nuswhispers",
+        "release_url": "http://nuswhispers.com",
+        "tags": ["website", "nus", "nuswhispers", "confession"]
     }
 ]
