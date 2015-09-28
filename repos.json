@@ -11,13 +11,13 @@
     {
         "github_url": "https://github.com/yeokm1/nus-soc-print",
         "release_url": "https://play.google.com/store/apps/details?id=com.yeokm1.nussocprintandroid",
-        "image": "http://yeokhengmeng.com/wp-content/uploads/2014/12/printing1.png",
+        "image": "https://raw.githubusercontent.com/yeokm1/nus-soc-print/master/play-store-stuff/printing1.png",
         "tags": ["nus"]
     },
     {
         "github_url": "https://github.com/yeokm1/nus-soc-print-ios",
         "release_url": "https://itunes.apple.com/sg/app/id916524327",
-        "image": "http://yeokhengmeng.com/wp-content/uploads/2014/12/ios-printing.png",
+        "image": "https://raw.githubusercontent.com/yeokm1/nus-soc-print-ios/master/screenshots/4-inch/printing.png",
         "tags": ["nus"]
     },
     {
