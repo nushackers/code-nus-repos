@@ -1,4 +1,10 @@
 [
+	{
+        "github_url": "https://github.com/kfwong/elvis",
+        "release_url": "https://github.com/kfwong/elvis/releases",
+        "image": "https://camo.githubusercontent.com/bef0eba7d01d901d698ac59d2642b990914d94d8/687474703a2f2f736d2e75706c6f6164732e696d2f642f394a7342612e706e67",
+        "tags": ["nus", "ivle", "downloader", "workbin"]
+    },
     {
         "github_url": "https://github.com/Ohohcakester/Tree-Balance-Game",
         "image": "https://raw.githubusercontent.com/Ohohcakester/Tree-Balance-Game/screenshot/screenshot/endless1.png",
